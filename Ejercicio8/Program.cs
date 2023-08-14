@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("******************************************\n");
-            Console.WriteLine("Bienvenido al programa!");
+            Console.WriteLine("Bienvenido al programa! ");
             Console.Write("\nIngrese un lado de un cuadrado para sacar el area de dicho cuadrado -> ");
             string inputNumero = Console.ReadLine();
             int Numero = int.Parse(inputNumero);
