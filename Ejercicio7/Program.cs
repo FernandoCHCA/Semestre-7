@@ -6,7 +6,7 @@
         {
             Console.WriteLine("******************************************\n");
             Console.WriteLine("Bienvenido al programa!");
-            Console.Write("\nIngrese un un digito que quiera convertir al cuadrado -> ");
+            Console.Write("\nIngrese un digito que quiera convertir al cuadrado -> ");
             string inputNumero = Console.ReadLine();
             int Numero = int.Parse(inputNumero);
             Console.WriteLine("\n******************************************\n");
