@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio6\\Ejercicio6.csproj": {}
+    "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio6\\Ejercicio6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio6\\Ejercicio6.csproj": {
+    "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio6\\Ejercicio6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio6\\Ejercicio6.csproj",
+        "projectUniqueName": "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio6\\Ejercicio6.csproj",
         "projectName": "Ejercicio6",
-        "projectPath": "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio6\\Ejercicio6.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio6\\obj\\",
+        "projectPath": "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio6\\Ejercicio6.csproj",
+        "packagesPath": "C:\\Users\\FernandoChavez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FernandoChavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

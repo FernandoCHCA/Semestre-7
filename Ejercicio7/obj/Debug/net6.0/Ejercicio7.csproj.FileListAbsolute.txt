@@ -13,3 +13,18 @@ C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de prac
 C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ejercicio7\obj\Debug\net6.0\Ejercicio7.pdb
 C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ejercicio7\obj\Debug\net6.0\Ejercicio7.genruntimeconfig.cache
 C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ejercicio7\obj\Debug\net6.0\ref\Ejercicio7.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.exe
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.deps.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.runtimeconfig.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\bin\Debug\net6.0\Ejercicio7.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.AssemblyInfo.cs
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\refint\Ejercicio7.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\Ejercicio7.genruntimeconfig.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\Ejercicio7\obj\Debug\net6.0\ref\Ejercicio7.dll

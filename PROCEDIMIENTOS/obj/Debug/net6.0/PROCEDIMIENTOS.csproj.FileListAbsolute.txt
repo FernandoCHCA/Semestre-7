@@ -1,0 +1,15 @@
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\bin\Debug\net6.0\PROCEDIMIENTOS.exe
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\bin\Debug\net6.0\PROCEDIMIENTOS.deps.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\bin\Debug\net6.0\PROCEDIMIENTOS.runtimeconfig.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\bin\Debug\net6.0\PROCEDIMIENTOS.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\bin\Debug\net6.0\PROCEDIMIENTOS.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.csproj.AssemblyReference.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.AssemblyInfoInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.AssemblyInfo.cs
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.csproj.CoreCompileInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\refint\PROCEDIMIENTOS.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\PROCEDIMIENTOS.genruntimeconfig.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\PROCEDIMIENTOS\obj\Debug\net6.0\ref\PROCEDIMIENTOS.dll

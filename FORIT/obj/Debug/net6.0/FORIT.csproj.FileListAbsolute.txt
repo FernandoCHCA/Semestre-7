@@ -1,0 +1,15 @@
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\bin\Debug\net6.0\FORIT.exe
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\bin\Debug\net6.0\FORIT.deps.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\bin\Debug\net6.0\FORIT.runtimeconfig.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\bin\Debug\net6.0\FORIT.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\bin\Debug\net6.0\FORIT.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.csproj.AssemblyReference.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.AssemblyInfoInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.AssemblyInfo.cs
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.csproj.CoreCompileInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\refint\FORIT.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\FORIT.genruntimeconfig.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\FORIT\obj\Debug\net6.0\ref\FORIT.dll

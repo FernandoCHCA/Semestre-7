@@ -1,0 +1,15 @@
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\bin\Debug\net6.0\WHILE.exe
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\bin\Debug\net6.0\WHILE.deps.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\bin\Debug\net6.0\WHILE.runtimeconfig.json
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\bin\Debug\net6.0\WHILE.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\bin\Debug\net6.0\WHILE.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.csproj.AssemblyReference.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.AssemblyInfoInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.AssemblyInfo.cs
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.csproj.CoreCompileInputs.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\refint\WHILE.dll
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.pdb
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\WHILE.genruntimeconfig.cache
+C:\Users\FernandoChavez\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\Documentos\Semestre-7\WHILE\obj\Debug\net6.0\ref\WHILE.dll

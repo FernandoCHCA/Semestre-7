@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\FernandoChavez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio5\\Ejercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio5\\Ejercicio5.csproj",
       "projectName": "Ejercicio5",
-      "projectPath": "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio5\\Ejercicio5.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\TAREA-UNIVERSIDAD-SEM-7\\Programacion\\Ejercicios de practica\\Ejercicio5\\obj\\",
+      "projectPath": "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio5\\Ejercicio5.csproj",
+      "packagesPath": "C:\\Users\\FernandoChavez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FernandoChavez\\OneDrive - CONTRATOS Y SERVICIOS PF SA DE CV\\Documentos\\Semestre-7\\Ejercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FernandoChavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
