@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.AssemblyInfo.cs
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\bin\Debug\net6.0\Ej2Clase1.exe
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\bin\Debug\net6.0\Ej2Clase1.deps.json
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\bin\Debug\net6.0\Ej2Clase1.runtimeconfig.json
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\bin\Debug\net6.0\Ej2Clase1.dll
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\bin\Debug\net6.0\Ej2Clase1.pdb
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.dll
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\refint\Ej2Clase1.dll
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.pdb
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\Ej2Clase1.genruntimeconfig.cache
+C:\Users\Admin\Documents\TAREA-UNIVERSIDAD-SEM-7\Programacion\Ejercicios de practica\Ej2Clase1\obj\Debug\net6.0\ref\Ej2Clase1.dll
